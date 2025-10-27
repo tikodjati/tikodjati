@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Tiko!</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fathurwithyou&style=plastic" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=tikodjati&style=plastic" alt="Profile Views">
 </p>
 
 <p align="center">
