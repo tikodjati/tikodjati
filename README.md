@@ -60,6 +60,6 @@ Currently, I'm studying <strong>Information Systems</strong> at <strong>UPN Vete
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
   <a href="https://tlx.toki.id/profiles/eLTiko">
-    <img src="https://img.shields.io/badge/TLX%20Toki-007ACC?style=plastic&logo=&logoColor=white" alt="TLX Toki">
+    <img src="https://img.shields.io/badge/TLX%20Toki-007ACC?style=plastic&logo=tlxtoki&logoColor=white" alt="TLX Toki">
   </a>
 </p>
