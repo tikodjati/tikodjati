@@ -59,7 +59,8 @@ Currently, I'm studying <strong>Information Systems</strong> at <strong>UPN Vete
   <a href="https://leetcode.com/tikodjati/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
-  <a href="https://tlx.toki.id/profiles/eLTiko">
-    <img src="https://img.shields.io/badge/TLX%20Toki-007ACC?style=plastic&logo=tlxtoki&logoColor=white" alt="TLX Toki">
-  </a>
+ <a href="https://tlx.toki.id/profiles/eLTiko">
+  <img src="https://custom-icon-badges.demolab.com/badge/TLX%20Toki-007ACC?style=plastic&logo=tlx_toki&logoColor=white" alt="TLX Toki">
+</a>
+
 </p>
