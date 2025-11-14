@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Welcome to my GitHub profile! I'm preparing for a career in the <strong>Cyber Security<strong> world. <br>
+  Welcome to my GitHub profile! I'm preparing for a career in the <strong>XXXXXXXXX<strong> world. <br>
 Currently, I'm studying <strong>Information Systems</strong> at <strong>UPN Veteran Yogyakarta</strong>. Now, I'm focusing on <strong>programming competitions</strong>!
 </p>
 
