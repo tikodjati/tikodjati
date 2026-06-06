@@ -1,6 +1,6 @@
-# Hi, I'm Fathur
+# Hi, I'm Tiko (Kierrr)
 
-I'm currently studying Informatics Engineering at Institut Teknologi Bandung and exploring AI and Machine Learning along the way.  
+I'm currently studying Information System at UPN Veteran Yogyakarta and exploring Penetration Testing (Offensive Cybesecurity Engineering) along the way.  
 Still figuring things out, but enjoying the process.
 
 ## Top Projects
