@@ -7,6 +7,22 @@ Still figuring things out, but enjoying the process.
 - [Google Dorking Tools for IT Infrastructure Enumeration] - https://github.com/tikodjati/Penetration_Testing_Tools-By_Kierrr/tree/main/Google-Dorking_Tools
 - [SMB Enumeration Framework] - https://github.com/tikodjati/Penetration_Testing_Tools-By_Kierrr/tree/main/SMB_Enum_Tools
 
-## Achievement
-- [NASA's Hall of Fame 2026] - https://www.linkedin.com/in/kartikodamarjati/overlay/Position/2929120811/treasury/?profileId=ACoAAEaAmj0B88WSyKu5u_w3C4woakjggZH5BVY
-- [Defense Nuclear Facilities Safety Board Hall of Fame 2026]
+## 🏆 Hall of Fame
+
+<table>
+<tr>
+
+<td align="center">
+<a href="https://bugcrowd.com/engagements/dnfsb-vdp/hall_of_fames">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/500px-NASA_logo.svg.png" width="110">
+</a>
+</td>
+
+<td align="center">
+<a href="https://bugcrowd.com/engagements/nasa-vdp/hall_of_fames">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Seal_of_the_Defense_Nuclear_Facilities_Safety_Board.png" width="90">
+</a>
+</td>
+
+</tr>
+</table>
