@@ -14,13 +14,13 @@ Still figuring things out, but enjoying the process.
 
 <td align="center">
 <a href="https://bugcrowd.com/engagements/dnfsb-vdp/hall_of_fames">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/500px-NASA_logo.svg.png" width="110">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/500px-NASA_logo.svg.png" width="50">
 </a>
 </td>
 
 <td align="center">
 <a href="https://bugcrowd.com/engagements/nasa-vdp/hall_of_fames">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Seal_of_the_Defense_Nuclear_Facilities_Safety_Board.png" width="90">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Seal_of_the_Defense_Nuclear_Facilities_Safety_Board.png" width="40">
 </a>
 </td>
 
