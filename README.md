@@ -33,5 +33,6 @@ Coming Soon
 ## Binary Exploitation (PWN) CTF Write Up
 Coming Soon
 
-## Penetration Testing Report (has been permitted subject to certain conditions) [HTB MACHINE/PROJECT REPORT/TASK]
+## Penetration Testing Report (has been permitted subject to certain conditions)
+### [HTB MACHINE/PROJECT REPORT/TASK]
 Coming Soon
