@@ -35,4 +35,4 @@ Coming Soon
 
 ## Penetration Testing Report (has been permitted subject to certain conditions)
 #### [HTB MACHINE/PROJECT REPORT/TASK]
-Coming Soon
+- [HTB Connected Machine - Season 11] - https://github.com/tikodjati/HTB-Machine/tree/main/Connected
