@@ -27,11 +27,13 @@ Still figuring things out, but enjoying the process.
 </tr>
 </table>
 
-## Reverse Engineering CTF Write Up
+## Reverse Engineering Write Up
 Coming Soon
 
-## Binary Exploitation (PWN) CTF Write Up
+## Binary Exploitation (PWN) Write Up
 Coming Soon
+
+## Blockhain Exploitation Write Up
 
 ## Machine Write Up
 - [HTB Connected Machine - Season 11] - https://github.com/tikodjati/HTB-Machine/tree/main/Connected
