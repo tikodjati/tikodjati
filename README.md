@@ -9,8 +9,7 @@
 <br>
 
 ```text
-🛡️ Cybersecurity Engineer | Exploring Smart Contract Security Auditing
-🦀 Systems Programming | ⚡ Low-Level Analysis | 🐍 Security Tooling
+Cybersecurity Engineer | Exploring Smart Contract Security Auditing
 ```
 
 <br>
@@ -19,10 +18,7 @@
 
 ---
 
-### 🚀 Primary Languages
-
-Tiga bahasa pemrograman utama yang mendasari pekerjaan dan eksplorasi teknis saya:
-
+### Primary Languages
 <br>
 
 <div align="center">
@@ -39,7 +35,7 @@ Tiga bahasa pemrograman utama yang mendasari pekerjaan dan eksplorasi teknis say
 
 ---
 
-### 🛡️ Areas of Focus
+### Areas of Focus
 
 - **Smart Contract Security Auditing**: Menelaah kerentanan logika bisnis, reentrancy, access control, dan mekanisme keamanan pada smart contract & protokol Web3.
 - **Offensive Security & Vulnerability Research**: Eksplorasi celah keamanan sistem, simulasi eksploitasi, dan pengujian penetrasi.
@@ -47,7 +43,7 @@ Tiga bahasa pemrograman utama yang mendasari pekerjaan dan eksplorasi teknis say
 
 ---
 
-### 🧰 Security & Development Arsenal
+### Security & Development Arsenal
 
 <p align="center">
   <!-- Core Languages -->
