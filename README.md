@@ -39,7 +39,6 @@ Cybersecurity Engineer | Exploring Smart Contract Security Auditing
 
 - **Smart Contract Security Auditing**: Menelaah kerentanan logika bisnis, reentrancy, access control, dan mekanisme keamanan pada smart contract & protokol Web3.
 - **Offensive Security & Vulnerability Research**: Eksplorasi celah keamanan sistem, simulasi eksploitasi, dan pengujian penetrasi.
-- **Low-Level & Binary Analysis**: Memahami cara kerja memori, eksekusi biner, dan rekayasa balik (reverse engineering) perangkat lunak.
 
 ---
 
