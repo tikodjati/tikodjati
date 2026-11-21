@@ -26,7 +26,7 @@ Cybersecurity Engineer | Exploring Smart Contract Security Auditing
 | Language | Primary Focus & Security Context | Badge |
 | :--- | :--- | :--- |
 | **Rust** | Smart contract security tooling, blockchain protocol analysis, and memory-safe systems programming | ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) |
-| **C++** | Low-level systems, reverse engineering, binary analysis, and core exploitation fundamentals | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **C++** | Learn the logic to expand my knowledge of programming | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 | **Python** | Automated security tooling, vulnerability scripting, exploit prototyping, and security research | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 
 </div>
