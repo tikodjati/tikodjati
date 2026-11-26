@@ -9,7 +9,7 @@
 <br>
 
 ```text
-Cybersecurity Engineer | Exploring Smart Contract Security Auditing
+Cybersecurity Engineer | Blockchain (Web3) Security Researcher
 ```
 
 <br>
